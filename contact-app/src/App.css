@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.addcontact {
+    background-color: #d5d5d5;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.addcontact input {
+    padding: 5px;
+    margin: 10px;
+}
+
+.contact-card {
+    width: 400px;
+    background-color: #d5d5d5;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.contact-card img {
+    width: 50px;
+    height: 50px;
+}
